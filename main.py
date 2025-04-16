@@ -1,5 +1,3 @@
-#7115329705:AAE77wsVH7kd2bpx_i8spH2yjgQBmAn_8Bg
-
 import telebot
 from telebot import types
 from config import TOKEN, MANAGERS
